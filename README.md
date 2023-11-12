@@ -5,13 +5,24 @@ Many people struggle to get loans due to insufficient or non-existent credit his
 
 Home Credit Group
 
-Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
+Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data including telco and transactional information--to predict their clients' repayment abilities.
 
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
 #### This project was made by Djalma Jr.
 
 # 1. Business Problem.
+The business case for predicting home credit default risk is multi-faceted. Home Credit aims to optimize its lending process by identifying applicants who are more likely to default on their loans. This proactive approach enables the company to:
+
+Reduce Default Rates: By accurately assessing credit risk, Home Credit can minimize the number of loans extended to individuals with a higher likelihood of default, thus reducing overall default rates.
+
+Improve Profitability: Lower default rates contribute to increased profitability, as the company can allocate resources more efficiently and focus on borrowers with a better repayment history.
+
+Enhance Customer Experience: Targeted lending based on credit risk analysis helps in tailoring loan terms and conditions. This, in turn, improves the customer experience by aligning loan offerings with individual financial capabilities.
+
+Maintain Regulatory Compliance: Sound risk assessment practices also contribute to regulatory compliance, ensuring that Home Credit adheres to industry standards and legal requirements.
+
+By predicting home credit default risk accurately, Home Credit aims to strike a balance between expanding its customer base and managing credit risk effectively, ultimately fostering sustainable and responsible lending practices.
 
 # 2. Business Assumptions.
 
@@ -87,7 +98,7 @@ Creation of variables (features) relevant to solving the problem
 
 # 8. Conclusions
 
-# 9.Technologies
+# 9. Technologies
 
 # 10. Lessons Learned
 
